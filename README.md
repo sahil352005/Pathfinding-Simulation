@@ -33,7 +33,7 @@ This is a visualizer tool for various pathfinding algorithms, implemented using 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/pathfinding-visualizer.git
+    git clone https://github.com/sahil352005/Pathfinding-Simulation.git
     ```
 
 2. Install Pygame:
