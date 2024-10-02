@@ -72,8 +72,6 @@ This is a visualizer tool for various pathfinding algorithms, implemented using 
 
 ![Screenshot 2024-10-02 075139](https://github.com/user-attachments/assets/7f0d834b-bf45-4412-9ffc-1b9e95c4a140)
 
-![Screenshot 2024-10-02 075304](https://github.com/user-attachments/assets/9facf774-aad0-427b-ab19-4bce7e50d6d8)
-
 ![Screenshot 2024-10-02 075342](https://github.com/user-attachments/assets/7c5066c2-eb4e-4cbf-b852-1a1556d389d7)
 
 ![Screenshot 2024-10-02 075940](https://github.com/user-attachments/assets/017c4136-10c1-4f82-945f-1ca4792cfaf7)
