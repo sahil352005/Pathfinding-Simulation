@@ -92,4 +92,5 @@ This is a visualizer tool for various pathfinding algorithms, implemented using 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
+## Contributors
+- https://github.com/Lonwwolf14
