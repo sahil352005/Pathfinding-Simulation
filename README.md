@@ -76,6 +76,9 @@ This is a visualizer tool for various pathfinding algorithms, implemented using 
 
 ![Screenshot 2024-10-02 075342](https://github.com/user-attachments/assets/7c5066c2-eb4e-4cbf-b852-1a1556d389d7)
 
+![Screenshot 2024-10-02 075940](https://github.com/user-attachments/assets/017c4136-10c1-4f82-945f-1ca4792cfaf7)
+
+
 ## Known Issues
 
 - The simulation may not reset entirely if run multiple times. This can be resolved by pressing the **Reset** button before starting a new algorithm run.
