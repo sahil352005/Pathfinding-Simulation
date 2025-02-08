@@ -87,9 +87,6 @@ This is a visualizer tool for various pathfinding algorithms, implemented using 
 - Allow diagonal movement between grid cells.
 - Implement weighted grids with varying terrain costs.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 ## Contributors
